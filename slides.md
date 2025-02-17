@@ -1,6 +1,6 @@
 ## Smart Document Router
 * The [DocRouter.AI](https://docrouter.ai) is an open source Document Understanding Tool. 
-* It performs data extraction, at scale, for intelligent automation in a number of verticals: Supply Chain, Healthcare, Finance.
+* It performs <span style="color: #4A9EFF">**data extraction**</span>, at scale, for intelligent automation in a number of verticals: Supply Chain, Healthcare, Finance.
 
 ---
 
